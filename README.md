@@ -25,7 +25,7 @@ The system consists of three main components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/history-rag.git
+git clone https://github.com/HuyHCMUS/history_rag.git
 cd history-rag
 ```
 
